@@ -1,3 +1,1 @@
-import { testMakePerson } from './utils/makePerson';
-
-testMakePerson();
+const log = (txt: any) => console.log(txt);
